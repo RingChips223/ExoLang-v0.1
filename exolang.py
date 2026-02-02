@@ -1,9 +1,3 @@
-#prn = print (inputs)
-#ext = break (loop)
-#clr = clear (os)
-#help = print (Commands of the language)
-
-
 import os
 
 
